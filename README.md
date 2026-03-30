@@ -49,7 +49,7 @@ pip install jupyter notebook ipython
 - tensorflow >= 2.8.0
 - keras (included with tensorflow)
 
-## 📊 Dataset
+## Dataset
 
 ### About the Dataset
 The project uses the **Credit Card Fraud Detection Dataset** containing transactions made by credit cards in September 2013 by European cardholders.
